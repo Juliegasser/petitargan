@@ -1,0 +1,126 @@
+body{
+	margin: O;
+}
+.title{	
+	background-color: #ffe8d6;
+	width: 100%;
+	height: 200px;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+	h1{ 
+		font-family:  'Gelasio', serif; 
+		color: #ff9966;
+		font-size: 50px;
+	}
+
+.div{
+	background-color: red;
+	width: 200px;
+	height: 200px;
+	border-radius: 10px solid;
+
+}
+.story{
+	background-color: #ff9966;
+	width: 200px 50px;
+	justify-content: center;
+	align-content: center;
+	font-family: Roboto, sans-serif;
+	font-size: 20px;
+	color: white;
+	padding: 20px;
+	border: 1px solid white;
+	margin:50px 450px;
+	border-radius: 5px;
+	line-height: 30px;
+	display: flex;
+}
+
+#image{
+	width: 200px;
+
+}
+
+.products{
+	display: flex;
+	justify-content: center;
+	font-family:  'Gelasio', serif; 
+	color: black;
+	font-size: 20px;
+	align-content: center;
+
+
+}
+.item{
+	text-align: center;
+	width: 400px;
+	height: 435px;
+	background-color: #f9f6f7;
+	padding: 40px;
+	border: 1px solid white;
+	margin: 10px 50px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px 0px rgba(178,189,204,1);
+}
+
+.item > img {
+	width: 300px;
+}
+.item > p{
+	font-family:  'Gelasio', serif; 
+		color: #ff9966;
+		font-size: 20px;
+		align-content: center;
+}
+.price{
+	margin: 20px;
+	font-family:  'Gelasio', serif; 
+	color: #ff9966;
+	font-size: 20px;
+	align-content: center;
+}
+.lien{
+	text-decoration: none;
+	color: white;
+	border: 1px solid orange;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: orange;
+	height: 24px;
+}
+.description{
+	display: flex;
+	justify-content: center;
+	margin: 30px;
+	align-items: center;
+
+}
+a:hover {
+	background-color: grey;
+	border-color: grey;
+}
+
+h3{
+	font-family: Roboto, sans-serif;
+	color: #b33c00;
+}
+.contact{
+	background-color: #ff9966;
+	width: auto;
+	justify-content: center;
+	align-content: center;
+	font-family: Roboto, sans-serif;
+	font-size: 15px;
+	padding: 20px;
+	border: 1px solid white;
+	margin:auto;
+	justify-content: space-evenly;
+
+	
+}
+#back{
+	width: 500px 100px;
+	margin: 30px;
+}
